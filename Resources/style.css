@@ -16,3 +16,19 @@ body {
   font-size: 16px;
   font-family: Verdana;
 }
+
+h2 {
+  font-family: Verdana;
+  font-weight: 300px;
+  font-size: 42px;
+}
+
+.places {
+  font-family: Verdana;
+  font-size: 21px;
+  color: gray;
+}
+
+.footer {
+  align-content: right;
+}

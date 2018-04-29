@@ -2,6 +2,7 @@ body {
   background-color: black;
   text-align: center;
   color: white;
+  font-family: Verdana;
 }
 
 
@@ -30,5 +31,6 @@ h2 {
 }
 
 .footer {
-  align-content: right;
+  text-align: right;
+  color: gray;
 }
